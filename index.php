@@ -21,7 +21,7 @@
 
 <div data-role="page" id="stickerPrice">
 	<div data-role="header" data-position="fixed">
-		<h1>ASILC</h1>
+		<h1>ASILC Application</h1>
 		<div data-role="navbar">
 		<ul>
 			<li><a href="#stickerPrice">Sticker Price</a></li>
